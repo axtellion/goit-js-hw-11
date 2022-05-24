@@ -13,7 +13,6 @@ input[name='searchQuery'] {
   border-radius: 7px;
   border-color:  #82b74b;
   margin-right: 15px;
-  height: 20px;
   outline: none;
   background-color: #d3e1c4;
 }

@@ -1,5 +1,6 @@
+import "./css/styles.css";
+
 import Notiflix from 'notiflix';
-import './css/styles.css';
 import galleryCard from './templates/galleryCard.hbs';
 import fetchGallery from './js/fetchGallery';
 import SimpleLightbox from "simplelightbox";
