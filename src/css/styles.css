@@ -5,6 +5,7 @@ body{
 .search-form {
   display: flex;
   justify-content: center;
+  margin-top: 15px;
 }
 
 input[name='searchQuery'] {
